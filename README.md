@@ -1,2 +1,2 @@
-# AndroidStudioPreViewConfig
-Android Studio 预览版配置
+# AndroidStudioPluginConfig
+Android Studio 插件等配置信息
